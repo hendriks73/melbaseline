@@ -144,8 +144,7 @@ Google Cloud ML
 Instead of executing the training and prediction process locally, you can also use `Google Cloud Machine Learning
 Engine <https://cloud.google.com/ml-engine/>`_. To do so, you have to
 
-- `Sign up and install the Google Cloud SDK
-<https://cloud.google.com/ml-engine/docs/tensorflow/getting-started-training-prediction#setup>`_.
+- `Sign up and install the Google Cloud SDK <https://cloud.google.com/ml-engine/docs/tensorflow/getting-started-training-prediction#setup>`_.
 - Upload the task ground-truths and ``mel_features.joblib`` files to Google Storage.
 - Edit the provided script ``trainandpredict_ml_engine.sh`` to reflect your naming choices.
 - Run ``trainandpredict_ml_engine.sh``.
