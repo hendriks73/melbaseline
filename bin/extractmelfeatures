@@ -1,0 +1,46 @@
+#!/usr/bin/env python
+# encoding: utf-8
+"""
+mel feature extractor
+"""
+
+import argparse
+
+from melbaseline.feature_extraction import convert_json_folder_to_joblib
+
+
+def main():
+    """extractmelfeatures"""
+
+    # define parser
+    parser = argparse.ArgumentParser(
+        formatter_class=argparse.RawDescriptionHelpFormatter, description='''
+    The program 'extractmelfeatures' extracts 'melbands' features from an
+    AcousticBrainz low-level JSON file and stores them in a .joblib file.
+    The much smaller .joblib file can then easily be processed by the
+    neural network.
+    ''')
+
+    parser.add_argument('-v', '--version', action='version', version='extractmelfeatures 0.0.1')
+    parser.add_argument('-i', '--input', nargs=1, help='input base folder', required=True)
+    parser.add_argument('-o', '--output', nargs=1, help='output file')
+
+    args = parser.parse_args()
+    input_folder = args.input[0]
+
+    if args.output is None:
+        output_file = 'mel_features.joblib'
+        print('Outputfile: {}'.format(output_file))
+    else:
+        output_file = args.output[0]
+
+    if not output_file.endswith('.joblib'):
+        output_file = output_file + '.joblib'
+
+    print('Converting mel features from AcousticBrainz JSON files in \'{}\' and subfolders to joblib...'.format(input_folder))
+    convert_json_folder_to_joblib(input_folder, output_file)
+    print('Done.')
+
+
+if __name__ == '__main__':
+    main()
