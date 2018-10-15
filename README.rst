@@ -81,6 +81,12 @@ At prediction time we simply drop any labels that do not occur in the desired ta
 normalization.
 
 
+Results
+=======
+
+Predictions and trained models can be found in the `results <results/>`_-folder.
+
+
 Installation
 ============
 
