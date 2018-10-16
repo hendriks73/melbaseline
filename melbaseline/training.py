@@ -262,8 +262,11 @@ def evaluate_predictions(predictions, keys, ground_truth):
     print('mAP (main labels): {}'.format(ap_main_sum / main_labels))
 
     thresholds = np.empty(prediction_classes)
+    # by default we flip the sign of the threshold to negative...
     for i in range(prediction_classes):
         thresholds[i] = -max_f_score_threshold[i]
+    # ... and re-flip it to positive, if it's for a class that's actually available in
+    # the target ground truth.
     for i in ground_truth.classes():
         thresholds[i] = -thresholds[i]
 
