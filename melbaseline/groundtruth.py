@@ -49,10 +49,16 @@ class AbstractGroundTruth:
 
     def to_labels(self, indices):
         line = ''
+        labels = set()
         for ind in indices:
             label = self.get_label(ind)
             if label is not None:
+                if label in labels:
+                    raise ValueError('Duplicate label: {} (indices={})'.format(label, indices))
                 line = line + '\t' + label
+                labels.add(label)
+        if len(line) == 0:
+            raise ValueError('No label for indices {}'.format(indices))
         return line
 
     def _read_label_files(self, files):
@@ -97,7 +103,12 @@ class AbstractGroundTruth:
         norm_to_label = {}
         for i, label in enumerate(index_to_label):
             label_to_index[label] = i
-            norm_to_label[self.normalize_label(label)] = label
+            normalized_label = self.normalize_label(label)
+            if normalized_label in norm_to_label:
+                raise ValueError('Two labels were normalized to the same value: \'{}\' and \'{}\', norm=\'{}\'.'
+                                 .format(norm_to_label[normalized_label], label, normalized_label))
+            else:
+                norm_to_label[normalized_label] = label
         return index_to_label, label_to_index, norm_to_label
 
     def set_target_ground_truth(self, target_ground_truth):
@@ -119,6 +130,9 @@ class AbstractGroundTruth:
     def normalize_label(label):
         if label is None:
             return None
+        # manual exception for allmusic
+        if label == 'pop/rock---euro-pop' or label == 'poprock---euro-pop':
+            return 'poprock---euro-pop'
         splits = label.split('---')
         n = ''
         for s in splits:
@@ -155,17 +169,18 @@ class GroundTruth(AbstractGroundTruth):
 
         # the other ground truth is normed, so we have to "un"norm it
 
-        def translate(other_label):
-            norm_other = self.normalize_label(other_label)
-            if norm_other in self.norm_to_label:
-                return self.norm_to_label[norm_other]
-            else:
-                return None
+        if self.files != ground_truth.files:
+            def translate(other_label):
+                norm_other = self.normalize_label(other_label)
+                if norm_other in self.norm_to_label:
+                    return self.norm_to_label[norm_other]
+                else:
+                    return None
 
-        self.index_to_label = [translate(l) for l in ground_truth.index_to_label]
-        self.label_to_index = {translate(l): i for l, i in ground_truth.label_to_index.items() if translate(l) is not None}
-        self.index_to_main_label = ground_truth.index_to_main_label
-        self.key_index_labels = self._create_key_index_labels(self.labels, self.label_to_index)
+            self.index_to_label = [translate(l) for l in ground_truth.index_to_label]
+            self.label_to_index = {translate(l): i for l, i in ground_truth.label_to_index.items() if translate(l) is not None}
+            self.index_to_main_label = ground_truth.index_to_main_label
+            self.key_index_labels = self._create_key_index_labels(self.labels, self.label_to_index)
 
 
 class CombinedGroundTruth(AbstractGroundTruth):

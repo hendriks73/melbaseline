@@ -75,6 +75,10 @@ def train_and_predict(train_files, valid_files, test_files, feature_files, job_d
     input_shape = (40, 9)  # mel feature space
     classes_count = len(train_ground_truth.classes())
     print('Number of classes: {}'.format(classes_count))
+    with FileIO(join(job_dir, 'classes.txt'), mode='w') as output_f:
+        for i, name in enumerate(train_ground_truth.index_to_label):
+            output_f.write("{}: {}\n".format(i, name).encode('utf-8'))
+
     print('Creating generators...')
     classes_to_balance = None
     if balance:
@@ -132,7 +136,15 @@ def predict_validation_labels(model, valid_file, train_ground_truth, features, j
     output_file = join(job_dir, 'valid_preds_' + to_filename(valid_file, '.tsv'))
     valid_preds_tuples = distribution_to_tuples(valid_preds, thresholds)
     write_predictions(output_file, valid_preds_tuples, valid_keys, valid_ground_truth)
+    treshold_file = join(job_dir, 'thresholds_' + to_filename(valid_file, '.txt'))
+    write_thresholds(treshold_file, thresholds)
     return thresholds
+
+
+def write_thresholds(file, thresholds):
+    with FileIO(file, mode='w') as output_f:
+        for i in range(thresholds.shape[0]):
+            output_f.write("{}: {}\n".format(i, thresholds[i]).encode('utf-8'))
 
 
 def predict_test_labels(model, test_file, train_file, train_ground_truth, thresholds, job_dir, input_shape,
@@ -251,7 +263,9 @@ def evaluate_predictions(predictions, keys, ground_truth):
 
     thresholds = np.empty(prediction_classes)
     for i in range(prediction_classes):
-        thresholds[i] = max_f_score_threshold[i]
+        thresholds[i] = -max_f_score_threshold[i]
+    for i in ground_truth.classes():
+        thresholds[i] = -thresholds[i]
 
     return thresholds
 
