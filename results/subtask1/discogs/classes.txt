@@ -1,0 +1,315 @@
+0: blues
+1: blues---chicago blues
+2: blues---country blues
+3: blues---delta blues
+4: blues---east coast blues
+5: blues---electric blues
+6: blues---harmonica blues
+7: blues---louisiana blues
+8: blues---modern electric blues
+9: blues---piano blues
+10: blues---rhythm & blues
+11: blues---texas blues
+12: brass & military
+13: brass & military---brass band
+14: brass & military---military
+15: children's
+16: classical
+17: classical---baroque
+18: classical---classical
+19: classical---contemporary
+20: classical---early
+21: classical---impressionist
+22: classical---medieval
+23: classical---modern
+24: classical---neo-classical
+25: classical---neo-romantic
+26: classical---opera
+27: classical---post-modern
+28: classical---renaissance
+29: classical---romantic
+30: electronic
+31: electronic---abstract
+32: electronic---acid
+33: electronic---acid house
+34: electronic---acid jazz
+35: electronic---ambient
+36: electronic---berlin-school
+37: electronic---big beat
+38: electronic---breakbeat
+39: electronic---breakcore
+40: electronic---breaks
+41: electronic---broken beat
+42: electronic---chiptune
+43: electronic---dance-pop
+44: electronic---dark ambient
+45: electronic---darkwave
+46: electronic---deep house
+47: electronic---disco
+48: electronic---downtempo
+49: electronic---drone
+50: electronic---drum n bass
+51: electronic---dub
+52: electronic---dub techno
+53: electronic---dubstep
+54: electronic---ebm
+55: electronic---electro
+56: electronic---electro house
+57: electronic---euro house
+58: electronic---eurodance
+59: electronic---experimental
+60: electronic---freestyle
+61: electronic---future jazz
+62: electronic---gabber
+63: electronic---garage house
+64: electronic---ghetto
+65: electronic---glitch
+66: electronic---goa trance
+67: electronic---grime
+68: electronic---happy hardcore
+69: electronic---hard house
+70: electronic---hard trance
+71: electronic---hardcore
+72: electronic---hardstyle
+73: electronic---hi nrg
+74: electronic---hip hop
+75: electronic---hip-house
+76: electronic---house
+77: electronic---idm
+78: electronic---illbient
+79: electronic---industrial
+80: electronic---italo-disco
+81: electronic---italodance
+82: electronic---jazzdance
+83: electronic---juke
+84: electronic---jungle
+85: electronic---latin
+86: electronic---leftfield
+87: electronic---minimal
+88: electronic---minimal techno
+89: electronic---modern classical
+90: electronic---musique concrète
+91: electronic---neofolk
+92: electronic---new age
+93: electronic---new beat
+94: electronic---new wave
+95: electronic---noise
+96: electronic---power electronics
+97: electronic---progressive house
+98: electronic---progressive trance
+99: electronic---psy-trance
+100: electronic---rhythmic noise
+101: electronic---speedcore
+102: electronic---synth-pop
+103: electronic---synthwave
+104: electronic---tech house
+105: electronic---techno
+106: electronic---trance
+107: electronic---tribal
+108: electronic---tribal house
+109: electronic---trip hop
+110: electronic---uk garage
+111: electronic---vaporwave
+112: folk, world, & country
+113: folk, world, & country---african
+114: folk, world, & country---bluegrass
+115: folk, world, & country---cajun
+116: folk, world, & country---celtic
+117: folk, world, & country---country
+118: folk, world, & country---fado
+119: folk, world, & country---folk
+120: folk, world, & country---gospel
+121: folk, world, & country---hindustani
+122: folk, world, & country---honky tonk
+123: folk, world, & country---indian classical
+124: folk, world, & country---klezmer
+125: folk, world, & country---nordic
+126: folk, world, & country---pacific
+127: folk, world, & country---raï
+128: folk, world, & country---romani
+129: folk, world, & country---zydeco
+130: funk / soul
+131: funk / soul---afrobeat
+132: funk / soul---bayou funk
+133: funk / soul---contemporary r&b
+134: funk / soul---disco
+135: funk / soul---funk
+136: funk / soul---gospel
+137: funk / soul---neo soul
+138: funk / soul---p.funk
+139: funk / soul---psychedelic
+140: funk / soul---rhythm & blues
+141: funk / soul---soul
+142: hip hop
+143: hip hop---bass music
+144: hip hop---boom bap
+145: hip hop---conscious
+146: hip hop---crunk
+147: hip hop---cut-up/dj
+148: hip hop---electro
+149: hip hop---gangsta
+150: hip hop---grime
+151: hip hop---hardcore hip-hop
+152: hip hop---horrorcore
+153: hip hop---instrumental
+154: hip hop---jazzy hip-hop
+155: hip hop---pop rap
+156: hip hop---ragga hiphop
+157: hip hop---rnb/swing
+158: hip hop---thug rap
+159: hip hop---trap
+160: hip hop---trip hop
+161: jazz
+162: jazz---afro-cuban jazz
+163: jazz---afrobeat
+164: jazz---avant-garde jazz
+165: jazz---big band
+166: jazz---bop
+167: jazz---bossa nova
+168: jazz---contemporary jazz
+169: jazz---cool jazz
+170: jazz---dixieland
+171: jazz---easy listening
+172: jazz---free improvisation
+173: jazz---free jazz
+174: jazz---fusion
+175: jazz---gypsy jazz
+176: jazz---hard bop
+177: jazz---jazz-funk
+178: jazz---jazz-rock
+179: jazz---latin jazz
+180: jazz---modal
+181: jazz---post bop
+182: jazz---ragtime
+183: jazz---smooth jazz
+184: jazz---soul-jazz
+185: jazz---space-age
+186: jazz---swing
+187: latin
+188: latin---afro-cuban
+189: latin---bossanova
+190: latin---cubano
+191: latin---cumbia
+192: latin---flamenco
+193: latin---forró
+194: latin---mambo
+195: latin---mpb
+196: latin---nueva cancion
+197: latin---pachanga
+198: latin---reggaeton
+199: latin---rumba
+200: latin---salsa
+201: latin---samba
+202: latin---son
+203: latin---tango
+204: non-music
+205: non-music---comedy
+206: non-music---dialogue
+207: non-music---field recording
+208: non-music---interview
+209: non-music---monolog
+210: non-music---poetry
+211: non-music---spoken word
+212: pop
+213: pop---ballad
+214: pop---chanson
+215: pop---europop
+216: pop---indie pop
+217: pop---j-pop
+218: pop---music hall
+219: pop---novelty
+220: pop---parody
+221: pop---schlager
+222: pop---vocal
+223: reggae
+224: reggae---calypso
+225: reggae---dancehall
+226: reggae---dub
+227: reggae---lovers rock
+228: reggae---ragga
+229: reggae---reggae
+230: reggae---reggae-pop
+231: reggae---rocksteady
+232: reggae---roots reggae
+233: reggae---ska
+234: rock
+235: rock---acoustic
+236: rock---alternative rock
+237: rock---aor
+238: rock---arena rock
+239: rock---art rock
+240: rock---avantgarde
+241: rock---beat
+242: rock---black metal
+243: rock---blues rock
+244: rock---brit pop
+245: rock---classic rock
+246: rock---country rock
+247: rock---crust
+248: rock---death metal
+249: rock---deathrock
+250: rock---doo wop
+251: rock---doom metal
+252: rock---emo
+253: rock---ethereal
+254: rock---experimental
+255: rock---folk metal
+256: rock---folk rock
+257: rock---funk metal
+258: rock---garage rock
+259: rock---glam
+260: rock---goth rock
+261: rock---gothic metal
+262: rock---grindcore
+263: rock---grunge
+264: rock---hard rock
+265: rock---hardcore
+266: rock---heavy metal
+267: rock---indie rock
+268: rock---industrial
+269: rock---krautrock
+270: rock---lo-fi
+271: rock---lounge
+272: rock---math rock
+273: rock---melodic death metal
+274: rock---melodic hardcore
+275: rock---metalcore
+276: rock---mod
+277: rock---neofolk
+278: rock---new wave
+279: rock---no wave
+280: rock---noise
+281: rock---nu metal
+282: rock---oi
+283: rock---parody
+284: rock---pop punk
+285: rock---pop rock
+286: rock---post rock
+287: rock---post-hardcore
+288: rock---post-punk
+289: rock---power metal
+290: rock---power pop
+291: rock---prog rock
+292: rock---progressive metal
+293: rock---psychedelic rock
+294: rock---psychobilly
+295: rock---pub rock
+296: rock---punk
+297: rock---rock & roll
+298: rock---rockabilly
+299: rock---shoegaze
+300: rock---sludge metal
+301: rock---soft rock
+302: rock---southern rock
+303: rock---space rock
+304: rock---speed metal
+305: rock---stoner rock
+306: rock---surf
+307: rock---symphonic rock
+308: rock---thrash
+309: rock---viking metal
+310: stage & screen
+311: stage & screen---musical
+312: stage & screen---score
+313: stage & screen---soundtrack
+314: stage & screen---theme

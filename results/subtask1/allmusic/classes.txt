@@ -1,0 +1,766 @@
+0: avant-garde
+1: avant-garde---computer music
+2: avant-garde---conceptual art
+3: avant-garde---experimental
+4: avant-garde---free improvisation
+5: avant-garde---improvisation
+6: avant-garde---improvised music
+7: avant-garde---microtonal
+8: avant-garde---minimalism
+9: avant-garde---mixed media
+10: avant-garde---modern composition
+11: avant-garde---noise
+12: avant-garde---post-minimalism
+13: avant-garde---sound art
+14: avant-garde---sound sculpture
+15: avant-garde---structured improvisation
+16: avant-garde---tape music
+17: blues
+18: blues---acoustic blues
+19: blues---acoustic chicago blues
+20: blues---acoustic memphis blues
+21: blues---acoustic texas blues
+22: blues---blues gospel
+23: blues---blues revival
+24: blues---chicago blues
+25: blues---classic female blues
+26: blues---contemporary blues
+27: blues---country blues
+28: blues---delta blues
+29: blues---detroit blues
+30: blues---early acoustic blues
+31: blues---early american blues
+32: blues---east coast blues
+33: blues---electric blues
+34: blues---electric chicago blues
+35: blues---electric country blues
+36: blues---electric delta blues
+37: blues---electric harmonica blues
+38: blues---electric texas blues
+39: blues---folk-blues
+40: blues---harmonica blues
+41: blues---jazz blues
+42: blues---juke joint blues
+43: blues---jump blues
+44: blues---jump blues/piano blues
+45: blues---louisiana blues
+46: blues---memphis blues
+47: blues---modern acoustic blues
+48: blues---modern blues
+49: blues---modern delta blues
+50: blues---modern electric blues
+51: blues---modern electric chicago blues
+52: blues---modern electric texas blues
+53: blues---new orleans blues
+54: blues---piano blues
+55: blues---piedmont blues
+56: blues---pre-war blues
+57: blues---pre-war country blues
+58: blues---pre-war gospel blues
+59: blues---regional blues
+60: blues---slide guitar blues
+61: blues---songster
+62: blues---soul-blues
+63: blues---swamp blues
+64: blues---texas blues
+65: blues---urban blues
+66: blues---vaudeville blues
+67: blues---west coast blues
+68: blues---work songs
+69: children's
+70: children's---children's folk
+71: children's---children's pop
+72: children's---children's rock
+73: children's---educational
+74: children's---lullabies
+75: children's---sing-alongs
+76: classical
+77: classical---avant-garde music
+78: classical---ballet
+79: classical---band music
+80: classical---chamber music
+81: classical---choral
+82: classical---classical crossover
+83: classical---concerto
+84: classical---electronic/computer music
+85: classical---film score
+86: classical---keyboard
+87: classical---miscellaneous (classical)
+88: classical---opera
+89: classical---orchestral
+90: classical---show/musical
+91: classical---symphony
+92: classical---vocal music
+93: comedy/spoken
+94: comedy/spoken---beat poetry
+95: comedy/spoken---comedy
+96: comedy/spoken---comedy rock
+97: comedy/spoken---country comedy
+98: comedy/spoken---music comedy
+99: comedy/spoken---musical comedy
+100: comedy/spoken---novelty
+101: comedy/spoken---observational humor
+102: comedy/spoken---poetry
+103: comedy/spoken---political comedy
+104: comedy/spoken---satire
+105: comedy/spoken---sketch comedy
+106: comedy/spoken---song parody
+107: comedy/spoken---spoken comedy
+108: comedy/spoken---spoken word
+109: comedy/spoken---standup comedy
+110: country
+111: country---alt-country
+112: country---alternative country
+113: country---americana
+114: country---bakersfield sound
+115: country---bluegrass
+116: country---bluegrass-gospel
+117: country---close harmony
+118: country---contemporary bluegrass
+119: country---contemporary country
+120: country---country boogie
+121: country---country gospel
+122: country---country-folk
+123: country---country-pop
+124: country---cowboy
+125: country---honky tonk
+126: country---instrumental country
+127: country---jug band
+128: country---nashville sound/countrypolitan
+129: country---neo-traditionalist country
+130: country---new traditionalist
+131: country---old-timey
+132: country---outlaw country
+133: country---progressive bluegrass
+134: country---progressive country
+135: country---string bands
+136: country---traditional bluegrass
+137: country---traditional country
+138: country---truck driving country
+139: country---urban cowboy
+140: country---western swing
+141: country---western swing revival
+142: easy listening
+143: easy listening---classical pop
+144: easy listening---easy listening
+145: easy listening---easy pop
+146: easy listening---exotica
+147: easy listening---exotica/lounge
+148: easy listening---instrumental collections
+149: easy listening---instrumental pop
+150: easy listening---lounge
+151: easy listening---mood music
+152: easy listening---orchestral/easy listening
+153: easy listening---space age pop
+154: electronic
+155: electronic---2-step/british garage
+156: electronic---acid house
+157: electronic---acid jazz
+158: electronic---acid techno
+159: electronic---ambient breakbeat
+160: electronic---ambient dub
+161: electronic---ambient house
+162: electronic---ambient techno
+163: electronic---big beat
+164: electronic---breakcore
+165: electronic---chiptunes
+166: electronic---clubjazz
+167: electronic---dark ambient
+168: electronic---detroit techno
+169: electronic---downbeat
+170: electronic---downtempo
+171: electronic---drill'n'bass
+172: electronic---dubstep
+173: electronic---edm
+174: electronic---electro
+175: electronic---electro-acoustic
+176: electronic---electro-jazz
+177: electronic---electro-techno
+178: electronic---electronica
+179: electronic---experimental ambient
+180: electronic---experimental dub
+181: electronic---experimental electro
+182: electronic---experimental electronic
+183: electronic---experimental jungle
+184: electronic---experimental techno
+185: electronic---funky breaks
+186: electronic---garage
+187: electronic---garage rap/grime
+188: electronic---glitch
+189: electronic---goa trance
+190: electronic---hardcore techno
+191: electronic---hi-nrg
+192: electronic---house
+193: electronic---idm
+194: electronic---illbient
+195: electronic---industrial drum'n'bass
+196: electronic---jazz-house
+197: electronic---jungle/drum'n'bass
+198: electronic---left-field house
+199: electronic---microhouse
+200: electronic---minimal techno
+201: electronic---neo-electro
+202: electronic---nu breaks
+203: electronic---progressive house
+204: electronic---progressive trance
+205: electronic---rave
+206: electronic---tech-house
+207: electronic---techno
+208: electronic---techno-dub
+209: electronic---trance
+210: electronic---trip-hop
+211: folk
+212: folk---alternative folk
+213: folk---anti-folk
+214: folk---appalachian
+215: folk---british folk
+216: folk---contemporary folk
+217: folk---field recordings
+218: folk---folk jazz
+219: folk---folk revival
+220: folk---folksongs
+221: folk---irish folk
+222: folk---neo-traditional folk
+223: folk---new acoustic
+224: folk---political folk
+225: folk---progressive folk
+226: folk---protest songs
+227: folk---sea shanties
+228: folk---traditional folk
+229: folk---traditional scottish folk
+230: folk---urban folk
+231: holiday
+232: holiday---carols
+233: holiday---christmas
+234: holiday---halloween
+235: holiday---holidays
+236: international
+237: international---african folk
+238: international---african traditions
+239: international---afro-beat
+240: international---afro-brazilian
+241: international---afro-pop
+242: international---andean folk
+243: international---arabic
+244: international---asian folk
+245: international---asian traditions
+246: international---bossa nova
+247: international---brazilian folk
+248: international---brazilian pop
+249: international---brazilian traditions
+250: international---bulgarian
+251: international---cajun
+252: international---celtic
+253: international---celtic folk
+254: international---celtic fusion
+255: international---celtic new age
+256: international---celtic pop
+257: international---celtic rock
+258: international---celtic/british isles
+259: international---central african
+260: international---central european traditions
+261: international---central/west asian traditions
+262: international---chants
+263: international---colombian
+264: international---contemporary celtic
+265: international---contemporary flamenco
+266: international---drinking songs
+267: international---dutch
+268: international---east african
+269: international---european folk
+270: international---fado
+271: international---finnish folk
+272: international---flamenco
+273: international---french
+274: international---french chanson
+275: international---french folk
+276: international---german
+277: international---gypsy
+278: international---hawaiian
+279: international---highlife
+280: international---indian
+281: international---indian classical
+282: international---indian pop
+283: international---indian subcontinent traditions
+284: international---indonesian traditions
+285: international---international fusion
+286: international---international pop
+287: international---israeli
+288: international---italian music
+289: international---japanese traditions
+290: international---jewish music
+291: international---klezmer
+292: international---korean
+293: international---mediterranean traditions
+294: international---middle eastern pop
+295: international---middle eastern traditions
+296: international---mpb
+297: international---native american
+298: international---neo-traditional
+299: international---nordic traditions
+300: international---north african
+301: international---north american traditions
+302: international---north/east asian traditions
+303: international---oceanic traditions
+304: international---pan-global
+305: international---polish
+306: international---portuguese
+307: international---qawwali
+308: international---raga
+309: international---samba
+310: international---scandinavian
+311: international---scottish folk
+312: international---south african pop
+313: international---south american traditions
+314: international---south/eastern european traditions
+315: international---southeast asian traditions
+316: international---southern african
+317: international---spanish folk
+318: international---swedish folk
+319: international---tango
+320: international---throat singing
+321: international---traditional celtic
+322: international---traditional irish folk
+323: international---traditional middle eastern folk
+324: international---tropicalia
+325: international---turkish
+326: international---tuvan
+327: international---volksmusik
+328: international---west african
+329: international---western european traditions
+330: international---worldbeat
+331: international---zydeco
+332: jazz
+333: jazz---african jazz
+334: jazz---afro-cuban jazz
+335: jazz---avant-garde jazz
+336: jazz---big band
+337: jazz---big band/swing
+338: jazz---boogie-woogie
+339: jazz---bop
+340: jazz---brazilian jazz
+341: jazz---chamber jazz
+342: jazz---contemporary jazz
+343: jazz---continental jazz
+344: jazz---cool
+345: jazz---crossover jazz
+346: jazz---cuban jazz
+347: jazz---dance bands
+348: jazz---dixieland
+349: jazz---early jazz
+350: jazz---electric jazz
+351: jazz---experimental big band
+352: jazz---free funk
+353: jazz---free jazz
+354: jazz---fusion
+355: jazz---guitar jazz
+356: jazz---hard bop
+357: jazz---jazz instrument
+358: jazz---jazz-funk
+359: jazz---jazz-pop
+360: jazz---jazz-rock
+361: jazz---jive
+362: jazz---latin jazz
+363: jazz---latin jazz/world fusion
+364: jazz---m-base
+365: jazz---mainstream jazz
+366: jazz---modal music
+367: jazz---modern big band
+368: jazz---modern creative
+369: jazz---modern free
+370: jazz---modern jazz
+371: jazz---neo-bop
+372: jazz---new orleans brass bands
+373: jazz---new orleans jazz
+374: jazz---new orleans jazz revival
+375: jazz---new orleans/classic jazz
+376: jazz---piano jazz
+377: jazz---post-bop
+378: jazz---progressive jazz
+379: jazz---ragtime
+380: jazz---saxophone jazz
+381: jazz---smooth jazz
+382: jazz---soul jazz
+383: jazz---soul jazz/groove
+384: jazz---standards
+385: jazz---straight-ahead jazz
+386: jazz---stride
+387: jazz---sweet bands
+388: jazz---swing
+389: jazz---third stream
+390: jazz---trad jazz
+391: jazz---trombone jazz
+392: jazz---trumpet jazz
+393: jazz---vibraphone/marimba jazz
+394: jazz---west coast jazz
+395: jazz---world fusion
+396: latin
+397: latin---afro-cuban
+398: latin---alternative latin
+399: latin---bolero
+400: latin---conjunto
+401: latin---corrido
+402: latin---cuban traditions
+403: latin---cumbia
+404: latin---latin america
+405: latin---latin big band
+406: latin---latin dance
+407: latin---latin folk
+408: latin---latin pop
+409: latin---latin soul
+410: latin---mambo
+411: latin---mariachi
+412: latin---merengue
+413: latin---mexican traditions
+414: latin---new york salsa
+415: latin---norteno
+416: latin---nueva cancion
+417: latin---ranchera
+418: latin---rumba
+419: latin---salsa
+420: latin---son
+421: latin---tejano
+422: latin---tropical
+423: new age
+424: new age---adult alternative
+425: new age---ambient
+426: new age---contemporary instrumental
+427: new age---ethnic fusion
+428: new age---guitar/new age
+429: new age---harp/new age
+430: new age---healing
+431: new age---keyboard/synthesizer/new age
+432: new age---meditation/relaxation
+433: new age---nature
+434: new age---neo-classical
+435: new age---piano/new age
+436: new age---progressive electronic
+437: new age---relaxation
+438: new age---solo instrumental
+439: new age---space
+440: new age---spiritual
+441: new age---techno-tribal
+442: pop/rock
+443: pop/rock---acid folk
+444: pop/rock---acid rock
+445: pop/rock---adult alternative pop/rock
+446: pop/rock---adult contemporary
+447: pop/rock---album rock
+448: pop/rock---alternative country-rock
+449: pop/rock---alternative dance
+450: pop/rock---alternative metal
+451: pop/rock---alternative pop/rock
+452: pop/rock---alternative singer/songwriter
+453: pop/rock---alternative/indie rock
+454: pop/rock---am pop
+455: pop/rock---ambient pop
+456: pop/rock---american punk
+457: pop/rock---american trad rock
+458: pop/rock---american underground
+459: pop/rock---anarchist punk
+460: pop/rock---arena rock
+461: pop/rock---art rock
+462: pop/rock---art-rock/experimental
+463: pop/rock---asian pop
+464: pop/rock---aussie rock
+465: pop/rock---avant-prog
+466: pop/rock---bar band
+467: pop/rock---baroque pop
+468: pop/rock---black metal
+469: pop/rock---blues-rock
+470: pop/rock---boogie rock
+471: pop/rock---brill building pop
+472: pop/rock---british blues
+473: pop/rock---british folk-rock
+474: pop/rock---british invasion
+475: pop/rock---british metal
+476: pop/rock---british psychedelia
+477: pop/rock---british punk
+478: pop/rock---british trad rock
+479: pop/rock---britpop
+480: pop/rock---bubblegum
+481: pop/rock---c-86
+482: pop/rock---canterbury scene
+483: pop/rock---celebrity
+484: pop/rock---chamber pop
+485: pop/rock---club/dance
+486: pop/rock---cocktail
+487: pop/rock---college rock
+488: pop/rock---contemporary pop/rock
+489: pop/rock---contemporary singer/songwriter
+490: pop/rock---country-rock
+491: pop/rock---cowpunk
+492: pop/rock---dance
+493: pop/rock---dance-pop
+494: pop/rock---dance-rock
+495: pop/rock---death metal
+496: pop/rock---detroit rock
+497: pop/rock---doom metal
+498: pop/rock---dream pop
+499: pop/rock---early british pop/rock
+500: pop/rock---early pop/rock
+501: pop/rock---electro-industrial
+502: pop/rock---emo
+503: pop/rock---emo-pop
+504: pop/rock---euro-dance
+505: pop/rock---euro-pop
+506: pop/rock---euro-rock
+507: pop/rock---europop
+508: pop/rock---experimental rock
+509: pop/rock---folk-pop
+510: pop/rock---folk-rock
+511: pop/rock---folk/country rock
+512: pop/rock---foreign language rock
+513: pop/rock---frat rock
+514: pop/rock---freakbeat
+515: pop/rock---french pop
+516: pop/rock---french rock
+517: pop/rock---funk metal
+518: pop/rock---garage punk
+519: pop/rock---garage rock
+520: pop/rock---garage rock revival
+521: pop/rock---girl groups
+522: pop/rock---glam rock
+523: pop/rock---glitter
+524: pop/rock---goth metal
+525: pop/rock---goth rock
+526: pop/rock---grindcore
+527: pop/rock---grunge
+528: pop/rock---guitar virtuoso
+529: pop/rock---hair metal
+530: pop/rock---hard rock
+531: pop/rock---hardcore punk
+532: pop/rock---heartland rock
+533: pop/rock---heavy metal
+534: pop/rock---hot rod
+535: pop/rock---indie electronic
+536: pop/rock---indie folk
+537: pop/rock---indie pop
+538: pop/rock---indie rock
+539: pop/rock---industrial
+540: pop/rock---industrial dance
+541: pop/rock---industrial metal
+542: pop/rock---instrumental rock
+543: pop/rock---italian pop
+544: pop/rock---j-pop
+545: pop/rock---jam bands
+546: pop/rock---jangle pop
+547: pop/rock---japanese rock
+548: pop/rock---korean pop
+549: pop/rock---kraut rock
+550: pop/rock---l.a. punk
+551: pop/rock---latin rock
+552: pop/rock---liedermacher
+553: pop/rock---lo-fi
+554: pop/rock---madchester
+555: pop/rock---math rock
+556: pop/rock---merseybeat
+557: pop/rock---metalcore
+558: pop/rock---mod
+559: pop/rock---mod revival
+560: pop/rock---neo-classical metal
+561: pop/rock---neo-glam
+562: pop/rock---neo-prog
+563: pop/rock---neo-psychedelia
+564: pop/rock---new romantic
+565: pop/rock---new wave
+566: pop/rock---new wave of british heavy metal
+567: pop/rock---new wave/post-punk revival
+568: pop/rock---new york punk
+569: pop/rock---new zealand rock
+570: pop/rock---no wave
+571: pop/rock---noise pop
+572: pop/rock---noise-rock
+573: pop/rock---nouvelle chanson
+574: pop/rock---nü metal
+575: pop/rock---obscuro
+576: pop/rock---oi!
+577: pop/rock---paisley underground
+578: pop/rock---pop
+579: pop/rock---pop idol
+580: pop/rock---pop-metal
+581: pop/rock---pop/rock
+582: pop/rock---post-grunge
+583: pop/rock---post-hardcore
+584: pop/rock---post-punk
+585: pop/rock---post-rock
+586: pop/rock---power metal
+587: pop/rock---power pop
+588: pop/rock---prog-rock
+589: pop/rock---progressive metal
+590: pop/rock---proto-punk
+591: pop/rock---psychedelic pop
+592: pop/rock---psychedelic/garage
+593: pop/rock---psychobilly
+594: pop/rock---pub rock
+595: pop/rock---punk
+596: pop/rock---punk blues
+597: pop/rock---punk metal
+598: pop/rock---punk revival
+599: pop/rock---punk-pop
+600: pop/rock---punk/new wave
+601: pop/rock---rap-metal
+602: pop/rock---rap-rock
+603: pop/rock---retro swing
+604: pop/rock---retro-rock
+605: pop/rock---riot grrrl
+606: pop/rock---rock & roll
+607: pop/rock---rock & roll/roots
+608: pop/rock---rock en español
+609: pop/rock---rockabilly
+610: pop/rock---rockabilly revival
+611: pop/rock---roots rock
+612: pop/rock---sadcore
+613: pop/rock---scandinavian metal
+614: pop/rock---scandinavian pop
+615: pop/rock---schlager
+616: pop/rock---screamo
+617: pop/rock---shibuya-kei
+618: pop/rock---shoegaze
+619: pop/rock---singer/songwriter
+620: pop/rock---ska revival
+621: pop/rock---ska-punk
+622: pop/rock---skatepunk
+623: pop/rock---slowcore
+624: pop/rock---sludge metal
+625: pop/rock---soft rock
+626: pop/rock---sophisti-pop
+627: pop/rock---southern rock
+628: pop/rock---space rock
+629: pop/rock---speed/thrash metal
+630: pop/rock---stoner metal
+631: pop/rock---straight-edge
+632: pop/rock---sunshine pop
+633: pop/rock---surf
+634: pop/rock---surf revival
+635: pop/rock---swamp pop
+636: pop/rock---swedish pop/rock
+637: pop/rock---symphonic black metal
+638: pop/rock---synth pop
+639: pop/rock---teen idols
+640: pop/rock---teen pop
+641: pop/rock---tex-mex
+642: pop/rock---third wave ska revival
+643: pop/rock---twee pop
+644: r&b
+645: r&b---adult contemporary r&b
+646: r&b---alternative r&b
+647: r&b---blue-eyed soul
+648: r&b---chicago soul
+649: r&b---contemporary r&b
+650: r&b---country soul
+651: r&b---deep funk
+652: r&b---deep funk revival
+653: r&b---deep soul
+654: r&b---disco
+655: r&b---doo wop
+656: r&b---early r&b
+657: r&b---funk
+658: r&b---memphis soul
+659: r&b---motown
+660: r&b---neo-soul
+661: r&b---new jack swing
+662: r&b---new orleans r&b
+663: r&b---northern soul
+664: r&b---philly soul
+665: r&b---pop-soul
+666: r&b---post-disco
+667: r&b---psychedelic soul
+668: r&b---quiet storm
+669: r&b---r&b instrumental
+670: r&b---retro-soul
+671: r&b---smooth soul
+672: r&b---soul
+673: r&b---southern soul
+674: r&b---uptown soul
+675: r&b---urban
+676: rap
+677: rap---alternative rap
+678: rap---bass music
+679: rap---british rap
+680: rap---dirty rap
+681: rap---dirty south
+682: rap---east coast rap
+683: rap---g-funk
+684: rap---gangsta rap
+685: rap---golden age
+686: rap---hardcore rap
+687: rap---hip-hop/urban
+688: rap---jazz-rap
+689: rap---latin rap
+690: rap---left-field hip-hop
+691: rap---midwest rap
+692: rap---old-school rap
+693: rap---party rap
+694: rap---political rap
+695: rap---pop-rap
+696: rap---reggaeton
+697: rap---reggaeton/latin rap
+698: rap---southern rap
+699: rap---turntablism
+700: rap---underground rap
+701: rap---west coast rap
+702: reggae
+703: reggae---bluebeat
+704: reggae---caribbean traditions
+705: reggae---contemporary reggae
+706: reggae---dancehall
+707: reggae---dj/toasting
+708: reggae---dub
+709: reggae---dub poetry
+710: reggae---lovers rock
+711: reggae---political reggae
+712: reggae---ragga
+713: reggae---reggae-pop
+714: reggae---rocksteady
+715: reggae---roots reggae
+716: reggae---ska
+717: reggae---smooth reggae
+718: reggae---soca
+719: religious
+720: religious---alternative ccm
+721: religious---black gospel
+722: religious---ccm
+723: religious---ccm/contemporary gospel
+724: religious---christian metal
+725: religious---christian rap
+726: religious---christian rock
+727: religious---contemporary christian
+728: religious---contemporary gospel
+729: religious---gospel
+730: religious---gospel choir
+731: religious---inspirational
+732: religious---praise & worship
+733: religious---southern gospel
+734: religious---spirituals
+735: religious---traditional gospel
+736: stage & screen
+737: stage & screen---blaxploitation
+738: stage & screen---cast recordings
+739: stage & screen---film music
+740: stage & screen---movie themes
+741: stage & screen---musical theater
+742: stage & screen---musicals
+743: stage & screen---original score
+744: stage & screen---show tunes
+745: stage & screen---sound effects
+746: stage & screen---soundtracks
+747: stage & screen---spy music
+748: stage & screen---television music
+749: stage & screen---tv music
+750: stage & screen---tv soundtracks
+751: stage & screen---video game music
+752: vocal
+753: vocal---acappella
+754: vocal---american popular song
+755: vocal---cabaret
+756: vocal---early jazz vocals
+757: vocal---harmony vocal group
+758: vocal---modern jazz vocals
+759: vocal---music hall
+760: vocal---tin pan alley pop
+761: vocal---torch songs
+762: vocal---traditional pop
+763: vocal---vocal jazz
+764: vocal---vocal pop
+765: vocal---vocalese
